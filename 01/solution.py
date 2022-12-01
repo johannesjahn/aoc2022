@@ -21,6 +21,7 @@ def solve1(lines: list[str]):
     res.sort()
     print(max(res))
 
+
 def solve2(lines: list[str]):
     print(lines)
 
@@ -37,7 +38,6 @@ def solve2(lines: list[str]):
 
     res.sort()
     print(res[-1] + res[-2] + res[-3])
-
 
 
 if __name__ == '__main__':

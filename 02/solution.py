@@ -7,9 +7,9 @@ def readFile():
 def solve1(lines: list[str]):
     print(lines)
 
+
 def solve2(lines: list[str]):
     pass
-
 
 
 if __name__ == '__main__':
